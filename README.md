@@ -9,7 +9,11 @@ The project provides insights into EVs' types, growth, and electric range, parti
 # Project Overview
 **Objective:**  Examine the trends and dynamics of electric vehicle adoption, emphasizing Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), through comprehensive analysis of the Washington State Department of Licensing dataset.
 
-**Tools:**  For interactive visualizations-PowerBI and Tableau
+**Tools:** 
+
+Excel - For data cleaning
+
+PowerBI and Tableau - For interactive visualizations
 
 **Dataset:** The project utilizes the Electric Vehicle dataset provided by the Washington State Department of Licensing (DOL), including information on VIN, County, City, Model Year, Electric Vehicle Type, Electric Range, Base MSRP, Legislative District, and more.
 
