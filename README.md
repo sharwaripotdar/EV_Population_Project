@@ -1,5 +1,5 @@
 # EV_Population_Project
-Data Visualization Project utilizing PowerBI and Tableau
+Data Visualization Project utilizing PowerBI
 
 The Electric Vehicle Population Analysis project aims to explore and analyze the distribution, trends, and characteristics of electric vehicles (EVs) 
 using a dataset from the Washington State Department of Licensing (DOL). 
@@ -13,7 +13,7 @@ The project provides insights into EVs' types, growth, and electric range, parti
 
 Excel - For data cleaning
 
-PowerBI and Tableau - For interactive visualizations
+PowerBI - For interactive visualizations
 
 **Dataset:** The project utilizes the Electric Vehicle dataset provided by the Washington State Department of Licensing (DOL), including information on VIN, County, City, Model Year, Electric Vehicle Type, Electric Range, Base MSRP, Legislative District, and more.
 
@@ -29,5 +29,5 @@ EV_Population csv-https://www.kaggle.com/datasets/yashusinghal/electric-vehicle-
 
 4) **Geographic Distribution:** Geographic distribution highlights potential charging infrastructure gaps in rural regions, suggesting areas for targeted development.
 
-5) **Price Distribution:** The average Base MSRP for BEVs varies between manufacturers, with FISKER Motors having the most affordable options.
+
  
